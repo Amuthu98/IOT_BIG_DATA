@@ -14,7 +14,7 @@
 
 
 ### Son fonctionnement principal 
-<img src="hhttps://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/fonctionnement_principal.png"/>
+<img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/fonctionnement_principal.png"/>
 
 ## Le bracelet
 <img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/bracelet.png"/>
