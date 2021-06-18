@@ -25,10 +25,12 @@
 ## Liste des composants
 <img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/liste_objet_2.png"/>
 
+* Station météo extérieur -> Station météo WLAN
+* Capteur fréquence cardiaque -> ICQUANZX P220
+* Capteur de mouvement -> PIR HCS-SR505
+
 ## Application
 <img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/application.png"/>
 
 ## TinkerCad
-Lien du TinkerCad : 
-
 <img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/Start_Simulating_3.png"/>
