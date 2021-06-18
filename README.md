@@ -14,21 +14,21 @@
 
 
 ### Son fonctionnement principal 
-<img src="https://github.com/Amuthu98/IOT_BIG_DATA/Image/fonctionnement_principal.png"/>
+<img src="hhttps://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/Start_Simulating_3.png"/>
 
 ## Le bracelet
-<img src="https://github.com/Amuthu98/IOT_BIG_DATA/Image/bracelet.png"/>
+<img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/bracelet.png"/>
 
 ## Le boitier
-<img src="https://github.com/Amuthu98/IOT_BIG_DATA/Image/boitier.png"/>
+<img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/boitier.png"/>
 
 ## Liste des composants
-<img src="https://github.com/Amuthu98/IOT_BIG_DATA/Image/liste_objet_2.png"/>
+<img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/liste_objet_2.png"/>
 
 ## Application
-<img src="https://github.com/Amuthu98/IOT_BIG_DATA/Image/application.png"/>
+<img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/application.png"/>
 
 ## TinkerCad
 Lien du TinkerCad : 
 
-<img src="https://github.com/Amuthu98/IOT_BIG_DATA/Image/Start_Simulating_3.png"/>
+<img src="https://github.com/Amuthu98/IOT_BIG_DATA/blob/main/Image/Start_Simulating_3.png"/>
